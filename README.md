@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @bimajaa<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning Laravel<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm 19 yo
+👋 Hi, I’m @bimajaa<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning Laravel<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I'm 20 yo
 
 
 ## 🌐 Socials:
